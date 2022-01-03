@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422996197883",
+    "project_id": "friendsmeet-32585",
+    "storage_bucket": "friendsmeet-32585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422996197883:android:e6e9482e6015386a698b5e",
+        "android_client_info": {
+          "package_name": "com.example.friendsmeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422996197883-eoemnn3j4eggj3f7bv0jra4g6j7oia30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXVazBcjWxCsTmVQ8CnQ40vnx2rOOEClA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422996197883-eoemnn3j4eggj3f7bv0jra4g6j7oia30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
